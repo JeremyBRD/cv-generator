@@ -10,7 +10,5 @@ def scraper
   byebug
 end
 
-teste
-
 scraper
 # end
